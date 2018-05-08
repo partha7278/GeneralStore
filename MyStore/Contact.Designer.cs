@@ -83,9 +83,9 @@
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(34, 173);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(44, 20);
+            this.label5.Size = new System.Drawing.Size(56, 20);
             this.label5.TabIndex = 4;
-            this.label5.Text = "Roll :";
+            this.label5.Text = "Email :";
             // 
             // label6
             // 
@@ -93,9 +93,9 @@
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(103, 173);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(139, 20);
+            this.label6.Size = new System.Drawing.Size(199, 20);
             this.label6.TabIndex = 5;
-            this.label6.Text = "BETN1CS15068";
+            this.label6.Text = "Partha4224@gmail.com";
             // 
             // label7
             // 
@@ -103,15 +103,15 @@
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(103, 130);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(124, 20);
+            this.label7.Size = new System.Drawing.Size(33, 20);
             this.label7.TabIndex = 6;
-            this.label7.Text = "CS ( 6th sem )";
+            this.label7.Text = "CS";
             // 
             // Contact
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(291, 241);
+            this.ClientSize = new System.Drawing.Size(301, 242);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
