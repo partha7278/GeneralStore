@@ -1,8 +1,8 @@
 # GeneralStore
 
-General Store is an single user software where general store owner use this sotfware for maintaining records for users and the products
+General Store is an single user desktop based software where general store owner use this sotfware for maintaining records for users and the products
 
-This software we some facility these are <br/>
+This software have some facility these are <br/>
       <ul>
       <li> Maintain the buyers records </li>
       <li>  Update Product</li>
