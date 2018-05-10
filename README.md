@@ -16,15 +16,16 @@ This software have some facility these are <br/>
      
      
  ## Using Steps 
-    1.  Install visual studio version 2010 
-    2.  Open the MyStore.sln with visual studio 
-    3.  Run the project by simply click on run 
-    4.  Add new product according to in your store ( if need ) 
-    5.  In selling time Select product and its quantity
-    6.  Create new user or simply add user name and mobile number only
-    7.  select discount ( if you wants by default it's 0% )
-    8.  click create Bill for generate bill
-    
+ 
+ <ol><li>Install visual studio version 2010</li> 
+  <li>Open the MyStore.sln with visual studio </li>
+  <li>Run the project by simply click on run </li>
+  <li>Add new product according to in your store ( if need ) </li>
+  <li>In selling time Select product and its quantity</li>
+  <li>Create new user or simply add user name and mobile number only</li>
+  <li>select discount ( if you wants by default it's 0% )</li>
+  <li>click create Bill for generate bill</li>
+ </ol>
 
 
 ## Screenshot
